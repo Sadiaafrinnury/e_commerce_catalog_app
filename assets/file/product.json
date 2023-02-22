@@ -1,0 +1,113 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "iphone 14",
+            "desc": "Apple iphone 14",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg"
+        },
+
+        {
+            "id": 2,
+            "name": "Redmi Not 13",
+            "desc": "Redmi",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://www.91-img.com/pictures/150247-v1-xiaomi-redmi-note-13-pro-mobile-phone-large-1.jpg"
+        },
+
+                {
+            "id": 3,
+            "name": "Samsung",
+            "desc": "samsung galaxy",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://www.gizmochina.com/wp-content/uploads/2019/03/Samsung-Galaxy-A70.jpg"
+        },
+
+        {
+            "id": 4,
+            "name": "Redmi Note 13",
+            "desc": "Redmi",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://www.mobilebd.co/wp-content/uploads/2022/01/Xiaomi-Redmi-Note-13-Official-Image-1.png"
+        },
+
+        {
+            "id": 5,
+            "name": "Redmi Not 12",
+            "desc": "Redmi",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-5g.jpg"
+        },
+
+        {
+            "id": 6,
+            "name": "Redmi Not 10",
+            "desc": "Xiaomi",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://phoneaqua.com/products/redmi-note-10-lite.jpg"
+        },
+
+        {
+            "id": 8,
+            "name": "Xiaomi Television",
+            "desc": "Xiaomi",
+            "price": "9999",
+            "color": "#000000",
+            "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi/redmi-01-500x500.jpg"
+        },
+
+        {
+            "id": 9,
+            "name": "DSLR Camera",
+            "desc": "Canon",
+            "price": "19,999",
+            "color": "#000000",
+            "image": "https://images.unsplash.com/photo-1598469701566-59655353deb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHNsciUyMGNhbWVyYXxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+
+        {
+            "id": 10,
+            "name": "Sound box",
+            "desc": "Multimedia Speaker",
+            "price": "3000",
+            "color": "#000000",
+            "image": "https://digitalbridgebd.com/wp-content/uploads/2019/10/x-l790bt.jpg"
+        },
+
+        {
+            "id": 11,
+            "name": "Headphone",
+            "desc": "Wireless Headphone",
+            "price": "6000",
+            "color": "#000000",
+            "image": "https://diamu.com.bd/wp-content/uploads/2022/10/Nokia-E1200-Essential-Wireless-Headphones.jpg"
+        },
+
+        {
+            "id": 12,
+            "name": "Mouse",
+            "desc": "Cable Connected",
+            "price": "600",
+            "color": "#000000",
+            "image": "https://m.media-amazon.com/images/I/61UxfXTUyvL._AC_SL1500_.jpg"
+        },
+
+        {
+            "id": 13,
+            "name": "Xiaomi Smartwatch",
+            "desc": "Xiaomi",
+            "price": "8000",
+            "color": "#000000",
+            "image": "https://i0.wp.com/www.mobiledokan.net/wp-content/uploads/2019/12/Xiaomi-Mi-Watch.jpg?fit=500%2C500&ssl=1"
+        }
+
+
+    ]
+}
